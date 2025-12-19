@@ -1,0 +1,8 @@
+n = 5
+ans = 0
+for i in range(1, n + 1):
+    # print(i)
+    ans += i * i 
+print(ans)
+        
+
